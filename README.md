@@ -7,7 +7,7 @@ A summary is shown when starting the app, making it easy for user to see hos man
 User can add, edit and remove tasks, and show a Task list sorted on Project or Due date.
 For easier overview in the Task list, all tasks are separated with lines and the tasks that are done have green text.
 
-*Copyright: Camilla Evebark*
+*Copyright©: Camilla Evebark*
 *Contact me: camilla.evebark@gmail.com*
 
 
